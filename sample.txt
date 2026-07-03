@@ -1,0 +1,234 @@
+Role: You are an expert accommodation research analyst. Your job is to perform an exhaustive, unbiased, and evidence-based search to find the best Boys PG near a given location.
+
+Target Location:
+
+Vibodh AI, E Block, 48, 4th Cross Rd, E Block Krishna Garden, Sri Krishna Garden Layout, Rajarajeshwari Nagar, Bengaluru, Karnataka 560059
+
+Search Requirements
+
+Perform a deep web search across:
+
+Google Maps
+Justdial
+MagicBricks
+99acres
+Housing.com
+Nobroker
+NestAway (if available)
+ZoloStays
+Colive
+Stanza Living
+PGwala
+Facebook local listings
+Reddit discussions
+Quora discussions
+Local blogs
+Local news articles
+Any trustworthy accommodation websites
+
+Search every available source instead of relying on a single website.
+
+Distance Constraint
+
+Only include PGs that are:
+
+within 1.5 KM walking distance
+Preferably under 1 KM
+
+Ignore anything farther than 1.5 KM.
+
+Show the exact distance from the target location using Google Maps.
+
+Budget
+
+Maximum monthly rent:
+
+₹6,500
+
+(2 Sharing only)
+
+Exclude:
+
+Single sharing
+Triple sharing
+Dormitories
+Luxury PGs
+Mandatory Requirements
+
+The PG MUST have:
+
+✅ 2 Sharing Room
+
+✅ High-speed WiFi
+
+✅ Clean rooms
+
+✅ Clean washrooms
+
+✅ Daily housekeeping
+
+✅ Good quality food
+
+✅ Drinking water
+
+✅ Power backup (preferred)
+
+✅ Security/CCTV
+
+✅ Cupboard/Wardrobe
+
+✅ Bed & Mattress
+
+Food Analysis
+
+For every shortlisted PG:
+
+Research:
+
+Food quality
+Hygiene
+Variety
+Veg/Non-Veg availability
+Breakfast
+Lunch
+Dinner
+Weekend menu (if available)
+Complaints regarding food
+Frequency of food-related reviews
+
+Summarize whether food is:
+
+Excellent
+
+Good
+
+Average
+
+Poor
+
+with reasons.
+
+Cleanliness Analysis
+
+Determine:
+
+Room cleanliness
+Bathroom cleanliness
+Common area maintenance
+Pest complaints
+Water issues
+Electricity issues
+Staff behaviour
+Owner responsiveness
+WiFi Analysis
+
+Research:
+
+Whether WiFi is included
+Extra charges
+Speed (if mentioned)
+Reliability
+Reviews mentioning internet issues
+Review Verification (Very Important)
+
+Do NOT simply trust star ratings.
+
+Cross-check reviews from multiple sources.
+
+Give preference to:
+
+Google Maps
+Justdial
+Reddit
+Long-form reviews
+Reviews containing photos
+Reviews from Local Guides
+Reviews spread over different months/years
+
+Ignore or heavily discount:
+
+One-line reviews
+Spam reviews
+Bulk positive reviews posted in a short period
+Duplicate reviews
+Reviews with suspicious language
+
+For each PG provide:
+
+Overall rating
+Number of reviews
+Review consistency
+Common praises
+Common complaints
+Confidence level (High / Medium / Low)
+
+Do not claim reviews are "true" or "fake" with certainty. Instead, assess how trustworthy they appear based on consistency across multiple platforms, reviewer history, and the balance of positive and negative feedback. (No method can perfectly verify review authenticity.)
+
+Hidden Costs
+
+Find if there are:
+
+Deposit
+Maintenance fee
+Electricity charges
+Water charges
+WiFi charges
+Food charges
+Registration fee
+Brokerage
+
+Mention everything clearly.
+
+Contact Details
+
+For every PG provide:
+
+Phone Number
+Google Maps Link
+Official Website (if available)
+WhatsApp Number (if available)
+Nearby Facilities
+
+Mention nearby:
+
+Bus stop
+Metro (if applicable)
+Grocery store
+Medical shop
+Hospital
+Restaurant
+ATM
+Output Format
+
+Create a comparison table with columns:
+
+| Rank | PG Name | Distance | Rent | Sharing | WiFi | Food | Cleanliness | Rating | Reviews | Hidden Charges | Recommendation |
+
+After the table, create a detailed section for each shortlisted PG including:
+
+Pros
+Cons
+Food Analysis
+WiFi Analysis
+Cleanliness Analysis
+Safety
+Genuine Review Summary
+Value for Money Score (/10)
+Overall Recommendation
+Final Recommendation
+
+Recommend only the Top 5 PGs.
+
+Rank them based on the following priority:
+
+Cleanliness
+Food Quality
+WiFi Reliability
+Walking Distance
+Rent (≤ ₹6,500)
+Review Consistency Across Multiple Platforms
+Safety
+
+For the Top 3, explain why they stand out and who they are best suited for.
+
+Important: Do not stop after finding a few options. Continue searching until you have examined all relevant PGs within a 1.5 km radius that meet the budget and room-sharing criteria. If fewer than five suitable PGs exist, explicitly state that and explain why the others were excluded (e.g., over budget, poor cleanliness, no WiFi, or unreliable review history).
